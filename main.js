@@ -43,7 +43,7 @@ function draw() {
 
 image(video,0,0,300,250);
 fill(130,12,0);
-image(mask,nose_x,nose_y,80,80);
+image(mask,nose_x,nose_y,120,120);
 }
 
 function take_snapshot() {
